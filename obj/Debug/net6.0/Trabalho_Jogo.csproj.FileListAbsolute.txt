@@ -1,0 +1,15 @@
+D:\_Projetos_C#\Compactado\bin\Debug\net6.0\Trabalho_Jogo.exe
+D:\_Projetos_C#\Compactado\bin\Debug\net6.0\Trabalho_Jogo.deps.json
+D:\_Projetos_C#\Compactado\bin\Debug\net6.0\Trabalho_Jogo.runtimeconfig.json
+D:\_Projetos_C#\Compactado\bin\Debug\net6.0\Trabalho_Jogo.dll
+D:\_Projetos_C#\Compactado\bin\Debug\net6.0\Trabalho_Jogo.pdb
+D:\_Projetos_C#\Compactado\obj\Debug\net6.0\Trabalho_Jogo.csproj.AssemblyReference.cache
+D:\_Projetos_C#\Compactado\obj\Debug\net6.0\Trabalho_Jogo.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Projetos_C#\Compactado\obj\Debug\net6.0\Trabalho_Jogo.AssemblyInfoInputs.cache
+D:\_Projetos_C#\Compactado\obj\Debug\net6.0\Trabalho_Jogo.AssemblyInfo.cs
+D:\_Projetos_C#\Compactado\obj\Debug\net6.0\Trabalho_Jogo.csproj.CoreCompileInputs.cache
+D:\_Projetos_C#\Compactado\obj\Debug\net6.0\Trabalho_Jogo.dll
+D:\_Projetos_C#\Compactado\obj\Debug\net6.0\refint\Trabalho_Jogo.dll
+D:\_Projetos_C#\Compactado\obj\Debug\net6.0\Trabalho_Jogo.pdb
+D:\_Projetos_C#\Compactado\obj\Debug\net6.0\Trabalho_Jogo.genruntimeconfig.cache
+D:\_Projetos_C#\Compactado\obj\Debug\net6.0\ref\Trabalho_Jogo.dll
